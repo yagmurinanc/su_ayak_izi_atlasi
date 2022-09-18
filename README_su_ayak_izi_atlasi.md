@@ -1,7 +1,7 @@
 # ATLAS 
 ## Şirketiniz Su Ayak İzi Atlası
 
-![My Remote Image](https://r.resimlink.com/Y8KAexV.png)
+![alt text](https://r.resimlink.com/Y8KAexV.png)
 
 Firmanızdan sağlayacağımız veriler ile makine öğrenmesi algoritmaları kullanarak size özel ve detaylandırılmış veri analizleri, çeşitli veri görselleştirme teknikleri kullanılarak raporlandırılacaktır. Bu sayede verileri sürekli ve daha anlaşılabilir şekilde takip edebileceksiniz. 
 
@@ -9,7 +9,7 @@ Analizlerden sonra ihtiyacınıza yönelik olarak işbirliği yaptığımız su 
 
 İşbirliği yaptığımız firmalarda size özel indirimler sağlayarak, kullanılan suyu azaltarak ve geri dönüşümünü arttırarak firmanıza katkı sağlayacağız.
 
-![My Remote Image](https://r.resimlink.com/g2o4H6nZ.png)
+![alt text](https://r.resimlink.com/g2o4H6nZ.png)
 
 ## Neler Yaptık? 
 
@@ -32,7 +32,7 @@ Henüz küçük yaşlarımızdan itibaren yetiştiğimiz şehirlerde, gelişmeni
 
 Sürdürülebilir Kalkınma Amaçları doğrultusunda yarınlara daha yaşanabilir bir dünya bırakma isteğiyle 'Temiz Su ve Sanitasyon' için büyük tehditler içeren şirketlerin kendilerine nasıl bir yol çizebilecekleri konusunda onları bilinçlendirerek yarının suyunu korumayı hedefliyoruz.
 
-![My Remote Image](https://r.resimlink.com/7VTs1euo.png)
+![alt text](https://r.resimlink.com/7VTs1euo.png)
 
 ## İletişim
 
