@@ -4,7 +4,7 @@
 
 ATLAS, Birleşmiş Milletler Sürdürülebilir Kalkınma Amaçları doğrultusunda yarınlara daha yaşanabilir bir dünya bırakma isteğiyle 'Temiz Su ve Sanitasyon' için büyük şirketlerin kendilerine nasıl bir yol çizebilecekleri konusunda onlara danışmanlık sağlayan bir girişimdir. 
 
-![alt text](https://r.resimlink.com/Y8KAexV.png)
+![alt text](https://www.hizliresim.com/2e362dg][img]https://i.hizliresim.com/2e362dg.png)
 
 Yaptığımız bu projeyle şirketlere şeffaf ve güvenilir bir ortamda iş stratejilerinin sürdürülebilir bir politika çevresinde gelişip gelişmediğini gösteriyoruz. Geliştirmiş olduğumuz standartlara göre puanlama yapıyoruz. Su ayak izleri, olması gerekenin ne kadar fazla üzerindeyse de almış oldukları puanlar o kadar yüksek oluyor. Bu durumda yüksek puan almak iyiye işaret etmiyor. Her şirketi kendi bünyesinde ve sektöründe değerlendirip kendilerine uyan iş stratejilerine yönlendiriyoruz. İş politikalarında uzun vaade de iyileşmeyi kabul eden şirketler bulundukları bölgelerde ve endüstri alanlarında suyun daha etkin ve daha az kullanılmasını sağlıyor. Böylece mümkün olan en az miktarda su ile etkin çalışmalara imza atabiliyorlar. Bu durum, su ayak izinin daha az olduğu bir toplumda yaşan kişilerin refah seviyelerinde yükselme olmasına olanak sağlıyor.
 
