@@ -1,2 +1,2 @@
-# su_ayak_izi_atlasi
+# ATLAS
 Şirketiniz Su Ayak İzi Atlası
